@@ -1,0 +1,8 @@
+{
+"mysql": 
+{ "host": "localhost",
+ "user": "root", 
+"password": "AmiNima1331", 
+"db": "projectDB",
+ "port" : 3306}
+}
